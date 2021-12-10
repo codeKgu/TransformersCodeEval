@@ -1,0 +1,14 @@
+12/07/2021 14:12:05 - DEBUG - lm_solve.gpt_lib -   Configured logging
+12/07/2021 14:12:05 - WARNING - lm_solve.gpt_lib -   No gpt cache yet
+12/07/2021 14:14:41 - INFO - lm_solve.judge -   Loaded `judged_batches` cache of 979 items in 0.0s
+12/07/2021 14:14:41 - INFO - lm_solve.judge -   Loaded `judge_success` cache of 1,399 items in 0.0s
+12/07/2021 14:14:41 - INFO - lm_solve.judge -   Judging 25/30 new codes (removing duplicates/things in cache)
+12/07/2021 14:17:13 - INFO - lm_solve.judge -   Judging 27/27 new codes (removing duplicates/things in cache)
+12/07/2021 14:21:30 - DEBUG - lm_solve.gpt_lib -   Configured logging
+12/07/2021 14:21:30 - INFO - lm_solve.gpt_lib -   Loaded cache `/projects/bdata/kenqgu/Courses/CSE599_EMFML/TransformersCodeEval/PythonProgrammingPuzzles/src/lm_solve/../.cache/gpt2.cache` in 0.0s
+12/07/2021 14:21:30 - INFO - lm_solve.judge -   Loaded `judged_batches` cache of 981 items in 0.0s
+12/07/2021 14:21:30 - INFO - lm_solve.judge -   Loaded `judge_success` cache of 1,399 items in 0.0s
+12/09/2021 17:04:28 - DEBUG - lm_solve.gpt_lib -   Configured logging
+12/09/2021 17:04:28 - INFO - lm_solve.gpt_lib -   Loaded cache `/projects/bdata/kenqgu/Courses/CSE599_EMFML/TransformersCodeEval/PythonProgrammingPuzzles/src/lm_solve/../.cache/EleutherAI_gpt-neo-2.7B.cache` in 0.2s
+12/09/2021 17:04:28 - INFO - lm_solve.judge -   Loaded `judged_batches` cache of 981 items in 0.0s
+12/09/2021 17:04:28 - INFO - lm_solve.judge -   Loaded `judge_success` cache of 1,399 items in 0.0s
